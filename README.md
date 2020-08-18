@@ -2,7 +2,7 @@
 
 The repro contains a reproduction of some odd behavior we noticed using NestJS and New Relic's Node.js agent together.
 
-To reproduce
+To reproduce (tested with node version v12.18.3, but doesn't seem version specific)
 
 1. Clone the Repository
 
